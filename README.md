@@ -8,8 +8,7 @@ I will show you how it works and show the accuracy improvement with 2 ESP32 boar
 1. ESP32 “classic”
 2. ESP32 S2 Mini
 
-[![Watch the video](https://img.youtube.com/vi/Hk9vcR5FV9k/0.jpg)](https://youtu.be/Hk9vcR5FV9k)
-
+[![Watch the video](https://img.youtube.com/vi/ObJ7VtKhYn0/0.jpg)](https://youtu.be/ObJ7VtKhYn0)
 
 # Test setup
 
