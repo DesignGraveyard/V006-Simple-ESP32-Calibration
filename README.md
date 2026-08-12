@@ -1,6 +1,6 @@
 # Description
 
-ESP32 MCU's have a built-in calibration, In the YouTube video how to use it in the Arduino IDE.
+ESP32 MCU's have a built-in ADC calibration, In the YouTube video how to use it in the Arduino IDE.
 It is easy to use; it requires no extra components and no extra code, just replace "analogRead()" with "analogReadMilliVolts()".
 
 # Check out the video:
