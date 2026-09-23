@@ -10,7 +10,7 @@ I will show you how it works and show the accuracy improvement with 2 ESP32 boar
 
 The tests also reveal that the new ESP32 S & C series perform much better at low ADC voltages compared to ESP32 "Classic".
 
-[![Watch the video](https://img.youtube.com/vi/XR9e3-A5Q-0/0.jpg)](https://youtu.be/XR9e3-A5Q-0)
+[![Watch the video](https://img.youtube.com/vi/XR9e3-A5Q-0/maxresdefault.jpg)](https://youtu.be/XR9e3-A5Q-0)
 
 
 
